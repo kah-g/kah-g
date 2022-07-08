@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Karinne 
-- 👀 I’m a student of System Analysis and development
+- 🎓 I’m a student of System Analysis and development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking for an internishp or job
 - 📫 You can reach me through my email karinnegv@gmail.com
